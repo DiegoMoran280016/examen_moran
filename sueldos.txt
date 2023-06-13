@@ -1,0 +1,4 @@
+Ingeniero - 10000
+Maestro -5000
+Chalan - 3000
+Mandadero - 1000
